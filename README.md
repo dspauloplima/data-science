@@ -22,7 +22,14 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 |#|Nome|Data|Descrição|Dataset|Tags|Requirements|
 |:----:|:----:|:----:|:----:|:----:|:---:|:---:|
-|1|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)|18.março.2020|Detecção de fraude em transações com cartão de crédito|[dataset](/credit_fraud_detection/data/creditcard.csv)|#Classification #LogisticRegression #DecisionTree #RandomForest|[requirements.txt](/credit_fraud_detection/requirements.txt)
+|1|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)
+|18.março.2020
+|Detecção de fraude em transações com cartão de crédito
+|[dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+|#Classification #LogisticRegression #DecisionTree #RandomForest
+|[requirements.txt](/credit_fraud_detection/requirements.txt)
+
+
 
 
 ### Web Scraping
