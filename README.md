@@ -16,7 +16,6 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 |#|Nome|Data|Descrição|Dataset|Tags|Requirements|
 |:----:|:----:|:----:|:----:|:----:|:---:|:---:|
-|1|.[[code]](code) [[report]](report)|.|[heart.csv](dataset)|.|requirements.txt
 
 ### Machine Learning
 
@@ -29,19 +28,16 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 |#|Nome|Data|Descrição|Dataset|Tags|Requirements|
 |:----:|:----:|:----:|:----:|:----:|:---:|:---:|
-|1|.[[code]](code) [[report]](report)|.|[heart.csv](dataset)|.|requirements.txt
 
 ### Artigos
 
 |#|Nome|Descrição
 |:---|:----:|:----:|
-|1|[*uploading*](link) |*uploading*|
 
 ### Youtube
 
 |#|Nome|Descrição
 |:---|:----:|:----:|
-|1|[*uploading*](link) |*uploading*|
 
 ## Olá, eu sou o Paulo!
 
