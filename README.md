@@ -22,14 +22,7 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 |#|Nome|Data|Descrição|Dataset|Tags|Requirements|
 |:----:|:----:|:----:|:----:|:----:|:---:|:---:|
-|1|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)
-|18.março.2020
-|Detecção de fraude em transações com cartão de crédito
-|[dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
-|#Classification #LogisticRegression #DecisionTree #RandomForest
-|[requirements.txt](/credit_fraud_detection/requirements.txt)
-
-
+|1|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)|18.março.2020|Detecção de fraude em transações com cartão de crédito|[dataset](/credit_fraud_detection/data/creditcard.csv)|#Classification #LogisticRegression #DecisionTree #RandomForest|[requirements.txt](/credit_fraud_detection/requirements.txt)
 
 
 ### Web Scraping
@@ -38,13 +31,13 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 |:----:|:----:|:----:|:----:|:----:|:---:|:---:|
 |1|.[[code]](code) [[report]](report)|.|[heart.csv](dataset)|.|requirements.txt
 
-### Medium Articles
+### Artigos
 
 |#|Nome|Descrição
 |:---|:----:|:----:|
 |1|[*uploading*](link) |*uploading*|
 
-### Youtube Videos
+### Youtube
 
 |#|Nome|Descrição
 |:---|:----:|:----:|
@@ -54,5 +47,5 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 Sou um amante dos dados. Incansável e curioso, procuro por conhecimentos em diferentes áreas da vida, principalmente os ligados a domínio da mente (é algo que me fascina!). Eu caminho pelas áreas de Análise, Ciência e Engenharia de Dados, descobrindo o melhor pipeline para solucionar cada desafio.
 
-* Graduado em Ciências Náuticas pela EFOMM/Brazil.
-* Graduado em Data Science at UNINASSAU/Brazil.
+* Graduado em Ciências Náuticas pela EFOMM/Belém-PA/Brasil.
+* Graduado em Data Science at UNINASSAU/Recife-PE/Brasil.
