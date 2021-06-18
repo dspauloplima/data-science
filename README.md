@@ -32,7 +32,7 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 ### Artigos
 
-|#|Nome|Data|Descrição
+|#|Nome|Data|Descrição|
 |:---|:----:|:----:|
 |1|[Airbnb](https://dspauloplima.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879)|08.fev.2021|Coletando dados básicos de hospedagens no Airbnb utilizando Web Scraping.
 |2|[Big Data](https://dspauloplima.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae)|26.jan.2020|Big Data como combustível para empresas.
@@ -42,7 +42,7 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 ### Youtube
 
-|#|Nome|Data|Descrição
+|#|Nome|Data|Descrição|
 |:---|:----:|:----:|
 |1|[Pipeline de dados](https://youtu.be/zaAaactdd2Y)|13.out.2020|Pipeline de streaming de dados no Google Cloud Platform e Dashboard em tempo real.
 |2|[Sistema de recomendação](https://youtu.be/du5vuJZUzTA)|13.out.2020|Sistema de recomendação de acomodações utilizando o Google Cloud Platform.
