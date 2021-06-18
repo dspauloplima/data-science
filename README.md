@@ -33,20 +33,20 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 ### Artigos
 
 |#|Nome|Data|Descrição|
-|:---|:----:|:----:|
-|1|[Airbnb](https://dspauloplima.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879)|08.fev.2021|Coletando dados básicos de hospedagens no Airbnb utilizando Web Scraping.
-|2|[Big Data](https://dspauloplima.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae)|26.jan.2020|Big Data como combustível para empresas.
-|3|[Seleção de Variáveis](https://dspauloplima.medium.com/encontrando-atributos-mais-importantes-em-dados-de-diabetes-b39d644c275c)|28.dez.2019|Encontrando atributos mais importantes em dados de diabetes.
-|4|[Tweets](https://dspauloplima.medium.com/extraindo-tweets-de-forma-objetiva-em-python-para-an%C3%A1lise-de-sentimentos-74e1910ff4c3)|21.dez.2019|Extraindo tweets de forma objetiva em Python para Análise de Sentimentos.
-|5|[Iris](https://dspauloplima.medium.com/data-science-para-iniciantes-iris-ec17b205f0d6)|05.nov.2019|Data Science para iniciantes.
+|:----:|:----:|:----:|
+|1|[Airbnb](https://dspauloplima.medium.com/web-scraping-catando-o-b%C3%A1sico-em-hospedagens-no-airbnb-pernambuco-a5f036ef3879)|08.fev.2021|Coletando dados básicos de hospedagens no Airbnb utilizando Web Scraping.|
+|2|[Big Data](https://dspauloplima.medium.com/big-data-como-combust%C3%ADvel-para-empresas-c156047a1dae)|26.jan.2020|Big Data como combustível para empresas.|
+|3|[Seleção de Variáveis](https://dspauloplima.medium.com/encontrando-atributos-mais-importantes-em-dados-de-diabetes-b39d644c275c)|28.dez.2019|Encontrando atributos mais importantes em dados de diabetes.|
+|4|[Tweets](https://dspauloplima.medium.com/extraindo-tweets-de-forma-objetiva-em-python-para-an%C3%A1lise-de-sentimentos-74e1910ff4c3)|21.dez.2019|Extraindo tweets de forma objetiva em Python para Análise de Sentimentos.|
+|5|[Iris](https://dspauloplima.medium.com/data-science-para-iniciantes-iris-ec17b205f0d6)|05.nov.2019|Data Science para iniciantes.|
 
 ### Youtube
 
 |#|Nome|Data|Descrição|
-|:---|:----:|:----:|
-|1|[Pipeline de dados](https://youtu.be/zaAaactdd2Y)|13.out.2020|Pipeline de streaming de dados no Google Cloud Platform e Dashboard em tempo real.
-|2|[Sistema de recomendação](https://youtu.be/du5vuJZUzTA)|13.out.2020|Sistema de recomendação de acomodações utilizando o Google Cloud Platform.
-|3|[E-commerce Predictions](https://youtu.be/x1MIinOOl5s)|13.out.2020|Previsão de compras de visitantes de site de e-commerce utilizando Big Query ML.
+|:----:|:----:|:----:|
+|1|[Pipeline de dados](https://youtu.be/zaAaactdd2Y)|13.out.2020|Pipeline de streaming de dados no Google Cloud Platform e Dashboard em tempo real.|
+|2|[Sistema de recomendação](https://youtu.be/du5vuJZUzTA)|12.out.2020|Sistema de recomendação de acomodações utilizando o Google Cloud Platform.|
+|3|[E-commerce Predictions](https://youtu.be/x1MIinOOl5s)|11.out.2020|Previsão de compras de visitantes de site de e-commerce utilizando Big Query ML.|
 
 ## Olá, eu sou o Paulo!
 
