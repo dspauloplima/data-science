@@ -20,10 +20,10 @@ Este é o repositório onde eu apresento minhas soluções em projetos de Data S
 
 ### Machine Learning
 
-|#|Nome|Data|Descrição|Dataset|Tags|Requirements|Idioma|
+|#|Nome|Data|Descrição|Dataset|Tags|Requirements|
 |:----:|:----:|:----:|:----|:----:|:---:|:---:|
-|1|Breast Cancer [[code]](/breast_cancer/Breast_cancer.ipynb)|13.ago.2020|Breast tumor (benign or malignant) detection|[dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)|#Classification #RandomForest #SVM|[requirements](/breast_cancer/requirements.txt)|en|
-|2|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)|18.mar.2020|Detecção de fraude em transações com cartão de crédito|[dataset](/credit_fraud_detection/data/creditcard.csv)|#Classification #LogisticRegression #DecisionTree #RandomForest|[requirements](/credit_fraud_detection/requirements.txt)|pt-br|
+|1|Breast Cancer [[code]](/breast_cancer/Breast_cancer.ipynb)|13.ago.2020|Breast tumor (benign or malignant) detection|[dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)|#Classification #RandomForest #SVM|[requirements](/breast_cancer/requirements.txt)|
+|2|Credit Card Fraud [[code]](/credit_fraud_detection/credit_fraud.ipynb) [[report]](/credit_fraud_detection/report_credit_card.pdf)|18.mar.2020|Detecção de fraude em transações com cartão de crédito|[dataset](/credit_fraud_detection/data/creditcard.csv)|#Classification #LogisticRegression #DecisionTree #RandomForest|[requirements](/credit_fraud_detection/requirements.txt)|
 
 
 ### Web Scraping
